@@ -17,7 +17,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/image-grid-app.git
+   git clone https://github.com/EMPER0R7/Android_Assign.git
 2. Open the project in Android Studio.
 
 3. Build and run the project on your device or emulator.
